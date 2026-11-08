@@ -29,18 +29,18 @@
 
 ---
 
-## 📥 快速下载与资产清单 (v0.2.20)
+## 📥 快速下载与资产清单 (v0.2.21)
 
 > [!TIP]
 > 推荐直接访问 **[GitHub Releases 官方发布页](https://github.com/Mowen559/deepcloud-releases/releases/latest)** 获取最新版本。
 
 | 发行资产 (Asset) | 适用场景 | 说明 | 直接下载 |
 | :--- | :--- | :--- | :--- |
-| **`deepcloud-ui Setup 0.2.20.exe`** | **全新全量安装** | 首次使用请下载此安装包，具备自定义安装目录、开始菜单与桌面快捷方式 | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/deepcloud-ui.Setup.0.2.20.exe) |
-| **`deepcloud-update-v0.2.20.asar`** | **增量无感热更** | 针对已有安装用户的轻量级差分补丁包（V8 原生字节码加固，约 101MB，秒级下载热更） | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/deepcloud-update-v0.2.20.asar) |
-| **`app.asar`** | **核心包手动覆盖** | 完整核心二进制归档，可直接复制覆盖安装目录下的 `resources/app.asar` | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/app.asar) |
-| **`hub-windows-amd64.zip`** | **AI 视觉与服务中台** | Hub 智能体与视觉处理中台守护进程绿色包（内含 `hub.exe`） | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/hub-windows-amd64.zip) |
-| **`hub.exe`** | **智能体独立程序** | Hub 智能体服务端单文件独立可执行文件 | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/hub.exe) |
+| **`deepcloud-ui Setup 0.2.21.exe`** | **全新全量安装** | 首次使用请下载此安装包，具备自定义安装目录、开始菜单与桌面快捷方式 | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/deepcloud-ui.Setup.0.2.21.exe) |
+| **`deepcloud-update-v0.2.21.asar`** | **增量无感热更** | 针对已有安装用户的轻量级差分补丁包（V8 原生字节码加固，约 101MB，秒级下载热更） | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/deepcloud-update-v0.2.21.asar) |
+| **`app.asar`** | **核心包手动覆盖** | 完整核心二进制归档，可直接复制覆盖安装目录下的 `resources/app.asar` | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/app.asar) |
+| **`hub-windows-amd64.zip`** | **AI 视觉与服务中台** | Hub 智能体与视觉处理中台守护进程绿色包（内含 `hub.exe`） | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/hub-windows-amd64.zip) |
+| **`hub.exe`** | **智能体独立程序** | Hub 智能体服务端单文件独立可执行文件 | [立即下载](https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/hub.exe) |
 
 ---
 
@@ -49,15 +49,15 @@
 为防范网络传输篡改或下载损坏，在 Windows PowerShell 终端中执行以下命令可验证文件指纹：
 
 ```powershell
-Get-FileHash -Path ".\deepcloud-ui Setup 0.2.20.exe" -Algorithm SHA256
+Get-FileHash -Path ".\deepcloud-ui Setup 0.2.21.exe" -Algorithm SHA256
 ```
 
-### 官方标准哈希清单 (v0.2.20)：
-- **`deepcloud-ui Setup 0.2.20.exe`**：`9efc3eee3c47f665b56ee75127a65bc13d53c77caf061b51c661d1c75df37644`
-- **`deepcloud-update-v0.2.20.asar`**：`d0239f6ca73eb9d5aeda2fd27bf4a49255d94b22d05303f048d7863d3a2ecb8d`
-- **`app.asar`**：`d0239f6ca73eb9d5aeda2fd27bf4a49255d94b22d05303f048d7863d3a2ecb8d`
-- **`hub-windows-amd64.zip`**：`2e5ed4d0f27abb9c46d1296a157c71c20957b6e76dc237921923e89e055dd9c1`
-- **`hub.exe`**：`4cc5bcae06d333da8f0b0f4f617d62157e001aa4e8f6c48c1915da1091958f68`
+### 官方标准哈希清单 (v0.2.21)：
+- **`deepcloud-ui Setup 0.2.21.exe`**：`8ce19e1c4a130331740fbf9d8e379dbfca55bbe43b0c9d4cc7becb3cc4b1d72f`
+- **`deepcloud-update-v0.2.21.asar`**：`e512f8937a35529aef23d4c4ddb07c65147344864d9946bfdeded9cc0b627477`
+- **`app.asar`**：`e512f8937a35529aef23d4c4ddb07c65147344864d9946bfdeded9cc0b627477`
+- **`hub-windows-amd64.zip`**：`0f2fc42b94ff284430dcb5a544c8e87817ffcbaf98e5008d977c4b748af141cc`
+- **`hub.exe`**：`19a89c37ff2bca95993a4f81622cd44d1ccf64cbc8859decbbb6b0391a42c0d4`
 
 ---
 
@@ -69,7 +69,7 @@ Get-FileHash -Path ".\deepcloud-ui Setup 0.2.20.exe" -Algorithm SHA256
 - **存储空间**：至少预留 500MB 可用磁盘空间
 
 ### 1.2 首次安装与启动
-1. 双击运行 `deepcloud-ui Setup 0.2.20.exe`；
+1. 双击运行 `deepcloud-ui Setup 0.2.21.exe`；
 2. 选择软件安装路径（默认安装至用户目录，亦可自由选择非系统盘）；
 3. 安装完成后启动 DeepCloud，微内核网关将自动在安全环回接口（`127.0.0.1`）初始化启动；
 4. 客户端将静默完成 SQLite 本地数据库建表与出厂沙箱运行环境初始化。
@@ -253,7 +253,7 @@ DeepCloud 通过通用 Sidecar 守护进程管理器，原生内置了 AList 多
 **答**：
 - 进入「设置」 $\to$ 「通用设置」，确认更新仓库地址为 `Mowen559/deepcloud-releases`；
 - 点击「检查更新」按钮旁边的「刷新」，系统将自动绕过本地缓存直接探测 GitHub 最新 Release；
-- 您也可以直接从本页面下载最新的 `deepcloud-update-v0.2.20.asar`，在设置页点击「从本地文件加载补丁」一键更新。
+- 您也可以直接从本页面下载最新的 `deepcloud-update-v0.2.21.asar`，在设置页点击「从本地文件加载补丁」一键更新。
 
 ### Q2：播放某些视频提示“播放失败”或一直转圈？
 **答**：
@@ -263,7 +263,7 @@ DeepCloud 通过通用 Sidecar 守护进程管理器，原生内置了 AList 多
 
 ### Q3：规则内搜索输入框点击无反应？
 **答**：
-- 请确认已安装 **v0.2.20** 或更新版本；
+- 请确认已安装 **v0.2.21** 或更新版本；
 - 本版本已彻底重构输入框的事件转发机制与 Worker 沙箱语法转义，输入关键词后敲击回车即可直接搜索。
 
 ---
