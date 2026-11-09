@@ -1,41 +1,41 @@
 {
-  "version": "0.2.20",
-  "tag_name": "v0.2.20",
-  "title": "DeepCloud Desktop v0.2.20 (Windows x64)",
-  "releaseNotes": "【旗舰影音PotPlayer风格虚拟长片时间轴、选集流媒体合成与全架构高内聚模块化演进】落地PotPlayer风格多选集/多片段虚拟无缝长片时间轴，支持首帧GPU渲染防黑屏与全集离线下载画质自选；影视选集浮层与提示卡片新增流媒体合成进度与状态提示，模块化播放控制菜单与海阔URL标准化链路；消除海阔小程序过渡抖动与按钮拉伸缺陷，挂载全局剪贴板口令监听；全面完成WysiwygBottomBarCanvas、CosmicUniverseView、网络挂载驱动与浏览器组件模块化重构；全量151个核心模块通过V8原生字节码编译加固（Bytenode）。",
-  "publishedAt": "2026-10-25T13:55:00Z",
-  "releaseUrl": "https://github.com/Mowen559/deepcloud-releases/releases/tag/v0.2.20",
-  "downloadUrl": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/deepcloud-update-v0.2.20.asar",
+  "version": "0.2.21",
+  "tag_name": "v0.2.21",
+  "title": "DeepCloud Desktop v0.2.21 (Windows x64)",
+  "releaseNotes": "【三位一体规则市场生态、社区免登录一键提PR、海阔跨端同构沙箱隔离与SuperAgent智能体架构升维】落地内置/社区/云端三位一体插件中心架构，支持规则多版本自由切换、后悔药版本回退、高清二维码扫码与免登录一键发起PR；彻底根治变量跨规则穿透与全局变量污染，对齐移动端沙箱隔离标准；集成LibVLC离屏渲染Native扩展与RV32离屏双缓冲管线；全面对齐开源顶级智能体架构（Claude Code/OpenHands/Manus），重构全局工具别名映射、参数归一化与常规开发命令零阻抗放行；全量160个核心模块通过V8原生字节码编译加固（Bytenode）。",
+  "publishedAt": "2026-11-08T15:00:00Z",
+  "releaseUrl": "https://github.com/Mowen559/deepcloud-releases/releases/tag/v0.2.21",
+  "downloadUrl": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/deepcloud-update-v0.2.21.asar",
   "assets": [
     {
-      "name": "deepcloud-update-v0.2.20.asar",
-      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/deepcloud-update-v0.2.20.asar",
-      "size": 106317968,
-      "sha256": "d0239f6ca73eb9d5aeda2fd27bf4a49255d94b22d05303f048d7863d3a2ecb8d"
+      "name": "deepcloud-update-v0.2.21.asar",
+      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/deepcloud-update-v0.2.21.asar",
+      "size": 106893559,
+      "sha256": "e512f8937a35529aef23d4c4ddb07c65147344864d9946bfdeded9cc0b627477"
     },
     {
-      "name": "deepcloud-ui Setup 0.2.20.exe",
-      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/deepcloud-ui.Setup.0.2.20.exe",
-      "size": 192118626,
-      "sha256": "9efc3eee3c47f665b56ee75127a65bc13d53c77caf061b51c661d1c75df37644"
+      "name": "deepcloud-ui Setup 0.2.21.exe",
+      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/deepcloud-ui.Setup.0.2.21.exe",
+      "size": 212438155,
+      "sha256": "8ce19e1c4a130331740fbf9d8e379dbfca55bbe43b0c9d4cc7becb3cc4b1d72f"
     },
     {
       "name": "app.asar",
-      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/app.asar",
-      "size": 106317968,
-      "sha256": "d0239f6ca73eb9d5aeda2fd27bf4a49255d94b22d05303f048d7863d3a2ecb8d"
+      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/app.asar",
+      "size": 106893559,
+      "sha256": "e512f8937a35529aef23d4c4ddb07c65147344864d9946bfdeded9cc0b627477"
     },
     {
       "name": "hub-windows-amd64.zip",
-      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/hub-windows-amd64.zip",
-      "size": 29045704,
-      "sha256": "2e5ed4d0f27abb9c46d1296a157c71c20957b6e76dc237921923e89e055dd9c1"
+      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/hub-windows-amd64.zip",
+      "size": 30565146,
+      "sha256": "0f2fc42b94ff284430dcb5a544c8e87817ffcbaf98e5008d977c4b748af141cc"
     },
     {
       "name": "hub.exe",
-      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.20/hub.exe",
-      "size": 78393344,
-      "sha256": "4cc5bcae06d333da8f0b0f4f617d62157e001aa4e8f6c48c1915da1091958f68"
+      "browser_download_url": "https://github.com/Mowen559/deepcloud-releases/releases/download/v0.2.21/hub.exe",
+      "size": 82651648,
+      "sha256": "19a89c37ff2bca95993a4f81622cd44d1ccf64cbc8859decbbb6b0391a42c0d4"
     }
   ],
   "shims": {
