@@ -17,7 +17,7 @@
     "deepcloud"
   ],
   "author": "DeepCloud Team & Open Source Contributors",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "crypto-js": "^4.1.1"
   }
