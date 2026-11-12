@@ -11,7 +11,7 @@
   <a href="https://github.com/Mowen559/deepcloud-releases/releases"><img src="https://img.shields.io/badge/Platform-Windows%20x64-blue.svg" alt="Platform"></a>
   <a href="https://github.com/Mowen559/deepcloud-releases/releases"><img src="https://img.shields.io/badge/Security-Bytenode%20V8%20Protected-success.svg" alt="Bytenode Protected"></a>
   <a href="https://github.com/Mowen559/deepcloud-releases/releases"><img src="https://img.shields.io/badge/Engine-Worker%20Sandbox%20V3-orange.svg" alt="Worker Sandbox"></a>
-  <a href="#-开源协议"><img src="https://img.shields.io/badge/License-MIT-orange.svg" alt="License"></a>
+  <a href="#-开源协议"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
 </p>
 
 <p align="center">
@@ -283,6 +283,6 @@ DeepCloud 通过通用 Sidecar 守护进程管理器，原生内置了 AList 多
 
 ## 📜 开源协议
 
-DeepCloud 桌面端遵循 [MIT License](LICENSE) 开源协议。
+DeepCloud 桌面端遵循 [Apache License 2.0](LICENSE) 开源协议。任何使用、修改或再分发本项目的行为均须保留版权声明与 [NOTICE](NOTICE) 归属声明，并在修改文件中明确标注变更说明。
 如果您在使用过程中发现任何问题或有新功能诉求，欢迎随时提交 [GitHub Issue](https://github.com/Mowen559/deepcloud-releases/issues)！
 
